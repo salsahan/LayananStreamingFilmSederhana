@@ -9,12 +9,13 @@ Cara menggunakan:
 
 Untuk halaman mengakses Admin, ada dibagian footer pada link admin room's
 
-❥ Username: andri123
+❥ Username: salsa
 
 ❥ Password: 12345
 
 Fitur:
 1. Live Search
 2. Administrator Management
-3. Comments
-4. dan banyak lagi
+3. List Data Film
+4. Genre Film
+5. Detail Film
